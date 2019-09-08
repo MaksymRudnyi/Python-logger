@@ -1,0 +1,5 @@
+PythonTest - INFO - Hellow world
+PythonTest - INFO - This is an info message
+PythonTest - WARNING - This is a warning message
+PythonTest - ERROR - This is an error message
+PythonTest - CRITICAL - This is a critical message
